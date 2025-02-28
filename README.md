@@ -1,7 +1,7 @@
 # Office Snippets - Word
 
 This repository contains useful scripts and snippets to optimize the use of Microsoft Word.
----
+
 ## 🖥️ Script to Enable Macros in Word
 
 This PowerShell script allows you to enable macros in Microsoft Word by adjusting the security settings in the system registry.
