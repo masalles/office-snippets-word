@@ -25,7 +25,6 @@ The script checks if it is being run with administrator privileges. If not, it r
 
 <br>
 <br>
-
 ### 📝 How to Use
 1. Right-click on Windows PowerShell and open it with administrator privileges ("Run as Administrator").
 2. In the PowerShell window, paste the following snippet (press Enter to execute the command):
