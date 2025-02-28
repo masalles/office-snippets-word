@@ -37,7 +37,7 @@ A graphical window will appear with an "Enable Macros" button. Click it to apply
 
 After execution, a success message will be displayed.
 
-Restart Microsoft Word to apply the new settings.
+<code style="color : darkorange">Restart Microsoft Word to apply the new settings.</code>
 <br>
 <br>
 
