@@ -23,7 +23,8 @@ The script checks if it is being run with administrator privileges. If not, it r
    - Enable access to the VBA object model (`AccessVBOM = 1`)
 5. Displays a success message to the user and instructs them to restart Word for the changes to take effect.
 
-!--
+<br>
+<br>
 ### 📝 How to Use
 1. Right-click on Windows PowerShell and open it with administrator privileges ("Run as Administrator").
 2. In the PowerShell window, paste the following snippet (press Enter to execute the command):
@@ -36,7 +37,8 @@ A graphical window will appear with an "Enable Macros" button. Click it to apply
 After execution, a success message will be displayed.
 
 Restart Microsoft Word to apply the new settings.
-!--
+<br>
+<br>
 
 ⚠️ Notes
 The changed settings may allow macros to run in Word, which can be a security risk if macros from untrusted sources are enabled.
